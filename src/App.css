@@ -1,0 +1,105 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+    scroll-behavior: smooth;
+}
+
+.Card1{
+    transition: 0.5s;
+}
+
+.Card1:hover{
+    transform: scale(1.1);
+}
+
+.Card2{
+    transition: 0.5s;
+}
+
+.Card2:hover{
+    transform: scale(1.1);
+}
+
+.Card3{
+    transition: 0.5s;
+}
+
+.Card3:hover{
+    transform: scale(1.1);
+}
+
+.Card4{
+    transition: 0.5s;
+}
+
+.Card4:hover{
+    transform: scale(1.1);
+}
+
+.Card5{
+    transition: 0.5s;
+}
+
+.Card5:hover{
+    transform: scale(1.1);
+}
+
+.Card6{
+    transition: 0.5s;
+}
+
+.Card6:hover{
+    transform: scale(1.1);
+}
+
+.Card7{
+    transition: 0.5s;
+}
+
+.Card7:hover{
+    transform: scale(1.1);
+}
+
+.Card8{
+    transition: 0.5s;
+}
+
+.Card8:hover{
+    transform: scale(1.1);
+}
+
+.Card9{
+    transition: 0.5s;
+}
+
+.Card9:hover{
+    transform: scale(1.1);
+}
+
+.Card10{
+    transition: 0.5s;
+}
+
+.Card10:hover{
+    transform: scale(1.1);
+}
+
+.Card11{
+    transition: 0.5s;
+}
+
+.Card11:hover{
+    transform: scale(1.1);
+}
+
+.Card12{
+    transition: 0.5s;
+}
+
+.Card12:hover{
+    transform: scale(1.1);
+}
+
